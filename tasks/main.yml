@@ -1,0 +1,3 @@
+- name: "Install main GNU Image Manipulation Program"
+  ansible.builtin.include_tasks: install/main.yml
+

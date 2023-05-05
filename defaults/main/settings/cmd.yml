@@ -1,0 +1,3 @@
+# command to execute to run the GNU Image Manipulation Program
+gnu_image_mp_main_cmd: 'gimp'
+

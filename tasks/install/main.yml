@@ -1,0 +1,7 @@
+- name: "Install main 'gimp' package"
+  ansible.builtin.package:
+    name: gimp
+    state: present
+  become: true
+  become_user: root
+
