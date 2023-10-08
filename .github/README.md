@@ -53,7 +53,7 @@ Install and configure the GNU Image Manipulation Program.
        - name: "Install and configure the GNU Image Manipulation Program"
          ansible.builtin.include_role:
            name: ans_role_config_gnu_image_mp
-           public: yes
+           public: true
    ```
 
 ## Role Options
